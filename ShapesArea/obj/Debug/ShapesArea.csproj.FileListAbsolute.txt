@@ -1,0 +1,6 @@
+C:\Users\123\source\repos\ShapesArea\ShapesArea\bin\Debug\ShapesArea.dll
+C:\Users\123\source\repos\ShapesArea\ShapesArea\bin\Debug\ShapesArea.pdb
+C:\Users\123\source\repos\ShapesArea\ShapesArea\obj\Debug\ShapesArea.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\ShapesArea\ShapesArea\obj\Debug\ShapesArea.dll
+C:\Users\123\source\repos\ShapesArea\ShapesArea\obj\Debug\ShapesArea.pdb
+C:\Users\123\source\repos\ShapesArea\ShapesArea\obj\Debug\ShapesArea.csprojAssemblyReference.cache
